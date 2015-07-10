@@ -2,6 +2,8 @@
 
 A script used to define human-to-mouse synteny region.  
 This script is based on [Ensembl Perl API](http://www.ensembl.org/info/docs/api/index.html) (Comparative genomics)   
+
+##### How it works
 A two-step mapping strategy is used to define the synteny region:   
 1. Fetch the large synteny block for the given region   
 2. Perform Clustalw comparision for input sequences and take the maximum-length fragment as the final syntenic region   
