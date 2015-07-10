@@ -1,7 +1,8 @@
 ### SyntenyMapping
 
-A script used to define human-to-mouse synteny region.  
-This script is based on [Ensembl Perl API](http://www.ensembl.org/info/docs/api/index.html) (Comparative genomics)   
+A script used to define the human-to-mouse synteny region.  
+This script uses [Ensembl Perl API](http://www.ensembl.org/info/docs/api/index.html) (Comparative Genomics).  
+
 
 ##### How it works
 A two-step mapping strategy is used to define the synteny region:   
@@ -16,3 +17,4 @@ A two-step mapping strategy is used to define the synteny region:
 Input   file  : a Bed format like file with genetic loci in human genome (hg19).   
 Output  file  : Corresponding synteny region in mouse genome (mm10)   
 
+##### Test Data
