@@ -1,0 +1,61 @@
+Install Homebrew
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+brew doctor
+
+####################################
+Warning: Your XQuartz (2.7.5) is outdated
+Please install XQuartz 2.7.6:
+  https://xquartz.macosforge.org
+
+Warning: You have MacPorts or Fink installed:
+  /opt/local/bin/port
+
+This can cause trouble. You don't have to uninstall them, but you may want to
+temporarily move them out of the way, e.g.
+
+  sudo mv /opt/local ~/macports
+
+Warning: Unbrewed dylibs were found in /usr/local/lib.
+If you didn't put them there on purpose they could cause problems when
+building Homebrew formulae, and may need to be deleted.
+
+Unexpected dylibs:
+    /usr/local/lib/libecomlodr.dylib
+    /usr/local/lib/libtcl8.6.dylib
+    /usr/local/lib/libtk8.6.dylib
+
+Warning: Unbrewed .pc files were found in /usr/local/lib/pkgconfig.
+If you didn't put them there on purpose they could cause problems when
+building Homebrew formulae, and may need to be deleted.
+
+Unexpected .pc files:
+    /usr/local/lib/pkgconfig/RNAlib2.pc
+    /usr/local/lib/pkgconfig/tcl.pc
+    /usr/local/lib/pkgconfig/tk.pc
+
+Warning: Unbrewed static libraries were found in /usr/local/lib.
+If you didn't put them there on purpose they could cause problems when
+building Homebrew formulae, and may need to be deleted.
+
+Unexpected static libraries:
+    /usr/local/lib/libg2.a
+    /usr/local/lib/libRNA.a
+    /usr/local/lib/libtclstub8.6.a
+    /usr/local/lib/libtkstub8.6.a
+
+Warning: /usr/bin occurs before /usr/local/bin
+This means that system-provided programs will be used instead of those
+provided by Homebrew. The following tools exist at both paths:
+
+    git
+    git-cvsserver
+    git-receive-pack
+    git-shell
+    git-upload-archive
+    git-upload-pack
+
+Consider setting your PATH so that /usr/local/bin
+occurs before /usr/bin. Here is a one-liner:
+    echo export PATH='/usr/local/bin:$PATH' >> ~/.bash_profile
+	
+####################################

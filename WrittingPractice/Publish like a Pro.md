@@ -1,0 +1,66 @@
+
+**[Publish like a Pro](http://www.nature.com/naturejobs/science/articles/10.1038/nj7317-873a)**
+
+Mark Hauber sent a paper by one of his students to Nature in 2007. The paper, on predation of an island seabird, came back unreviewed. Next it went to Science. Again, it was not reviewed. Discouraged, the student, Matt Rayner, suggested that they send it to what is commonly regarded as their field's second-tier journal, Conservation Biology. But Hauber had enough experience to know better. Instead, with a few clicks, he submitted it to the higher-profile Proceedings of the National Academy of Sciences USA. Several weeks later it was accepted.
+
+“I've really learned that you've got to take rejection at face value,” says Rayner, now a postdoc at the National Institute of Water and Atmospheric Research in Auckland, New Zealand. “If you've got the gut feeling that you've got good stuff, you've just got to be persistent. Getting into PNAS was fantastic,” he says. “The refereeing process can be haphazard,” agrees Hauber, an animal behaviourist now at Hunter College, City University of New York. The moral of the story is that the publishing process requires not only hard work but also resilience — and struggling young authors can learn valuable lessons from those who have already navigated that process.
+
+In taking the all-important route to publication, inexperienced authors have several factors to consider and obstacles to overcome, from finding ways to combat writer's block to gracefully pursuing the journal-submission and review process. Established authors and journal editors suggest thinking early about the right journal and finding an appropriate editor, the best reviewers and, of course, an appropriate audience of readers. And new authors should be careful to polish their work and respond meticulously and politely to reviewers' comments without getting overwhelmed or frustrated by lengthy, time-consuming queries. Those who follow such advice are more likely to find success. Those who don't could end up on the wrong side of the 'publish or perish' divide.
+
+**In the beginning**  
+For many publishing veterans, the writing process starts at the earliest stages of designing a research project. “Nothing beats a comprehensive, thought-out experiment. Do that up front and your writing will come so much more easily,” says Mark Blumberg, a neuroscientist at the University of Iowa in Iowa City and editor-in-chief of Behavioral Neuroscience. It can be helpful to think of the project as a tentative title for the article it will become, a constant reminder of the scope it should span, recommends Bill Nazaroff, an environmental engineer at the University of California, Berkeley.
+
+Eileen White, associate director of the Cancer Institute of New Jersey in New Brunswick and a senior editor at Cancer Prevention Research, says that researchers should have a “neat package” of an interesting question, experiments to test it and a final answer. And a key to winning over editors and reviewers, says White, is having strong data to support conclusions. “Some people don't appreciate the fact that a lot of weak data does not make up for having less, but more powerful, data,” she says.
+
+Before starting to write the paper, authors should carefully choose a journal audience for their research story — and initially aim for the highest-impact, highest-profile journal possible. “The submission process is fast enough today; it's worth the effort of sending your paper to the highest journals where it belongs,” says Hauber.
+
+Authors should try to resist the urge to let their findings trickle out over many years and many papers. Although the trend in the past may have been to turn each PhD thesis chapter into a manuscript, these days, even scientists at the postgraduate level should try to get one or two higher-profile papers rather than several lower-profile pieces, says Hauber, because every stage of advancement places more emphasis on quality than on quantity. Hauber, who has an impressive publication rate of about one paper every two weeks, says that junior scientists should be thinking about the one paper that they'll place proudly at the top of their CV, job applications and grant proposals.
+
+When should the writing begin? Research presented at a meeting or as a poster is almost certainly far enough along to begin writing up. But some researchers say that it is never too early to start — students should be writing a little bit every day. Keeping a folder of pertinent literature and beginning with a simple outline of relevant points gleaned from that literature can provide the essential elements of a paper's introduction. Likewise, taking time during field or bench work to write short chunks of the materials and methods used can help to document these activities while they are fresh (see 'The key to effective writing').
+
+-----
+**Box 1: Writers' tips: The key to effective writing**
+
+* You are only as good as your last paper — previous success does not guarantee future acceptance.
+* You've got to hook the editor with the abstract.
+* Don't delete those files. Keep every version. You never know what aspect you can use for some other piece of writing.
+* Writing is an amazingly long learning curve. Many authors say that they're still getting better as a writer after several decades.
+* The most significant work is improved by subtraction. Keeping the clutter away allows a central message to be communicated with a broader impact.
+* Write every day if possible
+* Once you've written what you wanted to convey, end it there. K.P.
+
+----
+
+**Putting fingers to keyboard**  
+These days, the dreaded blank page is a white screen with a blinking cursor, and distractions such as e-mail and online Scrabble are just a click away. But there are tricks to getting past the terror-inducing start.
+
+Aspiring writers should have a template to hand — a previous paper published by the lab or a 'near-neighbour' article from the same journal. Nazaroff advises paralysed would-be writers to take the template concept one step further by counting the number of paragraphs in each section, the number of figures and the number of references. “Then you will get a sense of the length you are shooting for,” he says. Counting paragraphs can also break down a daunting section, such as the introduction, into more manageable portions.
+
+When a writing task seems insurmountable, Nazaroff gets over writer's block by making a list of all the parts that need doing and tackling the easy items first, such as calling a collaborator or checking a reference. He lets that momentum carry him past the block. Nazaroff likes to start every day of writing by editing the previous day's material — a useful tactic that helps to ease him into a writing mindset. “Recognizing that writing is a long process is valuable. Find a mentor in that process, somebody to guide and coach you,” he says.
+
+Younger writers need to recognize their own working patterns and write when they are most productive — whether it is early morning, late at night, at a desk or during a walk. “If you know that watching 10 minutes of YouTube videos is required to clear your brain, then that's good,” says Steven Wojtal, a structural geologist at Oberlin College in Ohio who teaches publishing workshops for early-career geologists.
+
+The usual writing advice applies to manuscript writing as well — be clear and concise and use simple language whenever possible (see G. D. Gopen & J. A. Swan Am. Sci. 78, 550–558; 1990). “Don't say 'rodents' when you mean 'rats' — that kind of creativity is horrible. Science is complicated enough,” says Blumberg, who has also authored several popular science books. Important but poorly written papers could end up being sent back unreviewed by busy editors.
+
+Editors stress the importance of clarity above all else, to help convey arguments and logic to them and to readers. They say that most writers make the mistake of assuming too much knowledge on the part of their audience. In reality, even at the most specialized journals, only a handful of readers will be such close colleagues that they don't need any contextual set-up.
+
+Editors say that one way to identify holes or gaps in logic that would be vulnerable in peer review is to imagine a sceptical audience reading the manuscript. “Think of the most adversarial reader you can imagine, and write to substantiate the veracity of your arguments and to anticipate criticisms and answer them,” says Wojtal. Some editors suggest that 'winning over' a sceptical editor, reader or reviewer should be the ultimate goal of any paper's abstract. “Editors read the abstract and start formulating a thumbs-up or thumbs-down, looking for reasons to rip it apart,” says White. “You want them to form a positive point of view from the very beginning,” she says. Leslie Sage, an astronomy editor at Nature, says authors should avoid an abstract structure that says: we did X, which told us Y, and has implications for Z. Instead, he says, start with why a reader should care about learning more about Z and then explain how this work furthers that goal.
+
+Likewise, says Nazaroff, the introduction should persuade readers “that you know what you are talking about and have something new to teach them”. Wojtal also advises authors to clearly distinguish between data in the results section and inferences about what they mean in the discussion section. This way, even if an editor or reviewer does not agree with a lab's interpretation of the work, he or she may still see the need to publish such an important data set.
+
+Often, less is more for junior scientists crafting manuscripts. The introduction need not cite every background article gathered, the results section should not archive every piece of data ever collected, and the discussion is not a treatise on the paper's subject. The writer must be selective, choosing only the references, data points and arguments that bolster the particular question at hand.
+
+**Back to the drawing board**  
+Once a first draft is complete, says Hauber, the work has only just begun. “Revise and revise and revise,” he advises. Hauber says that new authors tend to think that “once a sentence is written, it's gold or carved in diamonds”. In reality, however, editing is crucial. Even polished authors go through an average of 10–12 drafts, and sometimes as many as 30.
+
+Writers should ask not only the principal investigator to view drafts, but also every co-author, as well as fellow students or postdocs, and colleagues outside the immediate field of research. Lead authors should give co-authors set deadlines of 10 days to two weeks to suggest changes. Experienced authors counsel letting the draft sit for a few days before reading it with fresh eyes to catch mistakes or problems in flow. Blumberg prefers to read drafts aloud with his students to spot errors.
+
+When the paper is ready to submit, says Wojtal, the author should devise a cover letter that includes a brief synopsis of the article's argument, and suggestions for a few potential reviewers, as well as those who should be excluded. Such information, he says, can be very helpful to busy editors, who want to know who is familiar with the work and will be easy to reach. Authors should not suggest reviewers who are personal friends or institutional colleagues; including those people could immediately erode the editor's trust. Authors need to find a balance — it is fine to exclude a couple of reviewers who are direct competitors or known naysayers, but restricting too many qualified reviewers can backfire. “As an author, your job is to make the editor's job as easy as possible,” says Blumberg.
+
+New authors can feel overwhelmed when the reviewers' comments come back. Wojtal likes to let reviews sit for a week to let his “blood pressure return to normal”. Blumberg advises copying all of the reviewers' comments into a new electronic document to address each one step-by-step. Authors should work through the list and explain how criticisms were addressed, or why they were not, in the resubmission cover letter to the editor. A clear, succinct resubmission letter may result in an editor making their own decision rather than sending the paper back out for another round of review.
+
+The worst thing an author can do is to ignore a reviewer's criticism and send it back without an explanation, says Wojtal, who was an editor for the Journal of Structural Geology for six years. This, he says, wastes an editor's time trying to resolve the issue on his or her own. Green authors often wonder whether they should appeal a rejection. “If you strongly believe the reviewers have erred and that the editor should hear from you, definitely send an e-mail,” says Blumberg, who, as an editor, is happy to hear from authors. “Be as polite as possible, stick to the facts, and keep it to the point.”
+
+Young scientists would be wise to embrace written communication as the foundation of an academic career and the key to earning tenure, winning funding and, ultimately, sustaining a research programme, says Hauber. “If your result is not published, you haven't done anything,” he says. “You might not set out to be an enthusiastic writer, but you should try to learn to love it.”
+
+

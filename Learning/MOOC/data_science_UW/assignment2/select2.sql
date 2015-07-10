@@ -1,0 +1,1 @@
+select count(*) from frequency where docid = '10398_txt_earn' AND count = '1';
