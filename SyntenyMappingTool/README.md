@@ -9,7 +9,7 @@ A two-step mapping strategy is used to define the synteny region:
 1. Fetch the large synteny block for the given region   
 2. Perform clustalw comparision for input sequences and take the maximum-length fragment as the final syntenic region   
 
-##### System Requirement:
+##### System Requirement
 1. Linux or Mac OS system (head, tail and sort are used)  
 2. Ensemble Perl API  
 
