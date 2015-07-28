@@ -1,0 +1,45 @@
+<<<<<<< Local Changes
+For UCSC gtf analysis
+
+cuffdiff -p 2 -b genome.fa -o GFP_vs_MBII52 -L GFP,MBII52 merged_asm/merged.gtf GFP_ICR_DIV4_cuffquants_out/abundances.cxb,GFP_B6_DIV4_cuffquants_out/abundances.cxb,GFP_ICR_DIV10_cuffquants_out/abundances.cxb MBII52_ICR_DIV4_cuffquants_out/abundances.cxb,MBII52_B6_DIV4_cuffquants_out/abundances.cxb,MBII52_ICR_DIV10_cuffquants_out/abundances.cxb 
+
+
+cuffdiff -p 2 -b genome.fa -o GFP_vs_MBII85 -L GFP,MBII85 merged_asm/merged.gtf GFP_ICR_DIV4_cuffquants_out/abundances.cxb,GFP_B6_DIV4_cuffquants_out/abundances.cxb,GFP_ICR_DIV10_cuffquants_out/abundances.cxb  MBII85_ICR_DIV4_cuffquants_out/abundances.cxb,MBII85_B6_DIV4_cuffquants_out/abundances.cxb,MBII85_ICR_DIV10_cuffquants_out/abundances.cxb
+
+
+cuffdiff -p 2 -b genome.fa -o MBII52_vs_MBII85 -L MBII52,MBII85 merged_asm/merged.gtf  MBII52_ICR_DIV4_cuffquants_out/abundances.cxb,MBII52_B6_DIV4_cuffquants_out/abundances.cxb,MBII52_ICR_DIV10_cuffquants_out/abundances.cxb MBII85_ICR_DIV4_cuffquants_out/abundances.cxb,MBII85_B6_DIV4_cuffquants_out/abundances.cxb,MBII85_ICR_DIV10_cuffquants_out/abundances.cxb
+
+
+
+For Gencode gtf analysis
+
+cuffdiff -p 2 -b GRCm38.p3.genome.fa -o GFP_vs_MBII52 -L GFP,MBII52 merged_asm/merged.gtf GFP_ICR_DIV4_cuffquants_out/abundances.cxb,GFP_B6_DIV4_cuffquants_out/abundances.cxb,GFP_ICR_DIV10_cuffquants_out/abundances.cxb MBII52_ICR_DIV4_cuffquants_out/abundances.cxb,MBII52_B6_DIV4_cuffquants_out/abundances.cxb,MBII52_ICR_DIV10_cuffquants_out/abundances.cxb 
+
+
+cuffdiff -p 2 -b GRCm38.p3.genome.fa -o GFP_vs_MBII85 -L GFP,MBII85 merged_asm/merged.gtf GFP_ICR_DIV4_cuffquants_out/abundances.cxb,GFP_B6_DIV4_cuffquants_out/abundances.cxb,GFP_ICR_DIV10_cuffquants_out/abundances.cxb  MBII85_ICR_DIV4_cuffquants_out/abundances.cxb,MBII85_B6_DIV4_cuffquants_out/abundances.cxb,MBII85_ICR_DIV10_cuffquants_out/abundances.cxb
+
+
+cuffdiff -p 11 -b GRCm38.p3.genome.fa -o MBII52_vs_MBII85 -L MBII52,MBII85 merged_asm/merged.gtf  MBII52_ICR_DIV4_cuffquants_out/abundances.cxb,MBII52_B6_DIV4_cuffquants_out/abundances.cxb,MBII52_ICR_DIV10_cuffquants_out/abundances.cxb MBII85_ICR_DIV4_cuffquants_out/abundances.cxb,MBII85_B6_DIV4_cuffquants_out/abundances.cxb,MBII85_ICR_DIV10_cuffquants_out/abundances.cxb=======
+>>>>>>> External Changes
+
+
+
+
+
+<<<<<<< Local Changes
+For UCSC gtf analysis
+
+cuffdiff -p 2 -b genome.fa -o DIV4_only_GFP_vs_MBII52 -L GFP,MBII52 merged_asm/merged.gtf GFP_ICR_DIV4_cuffquants_out/abundances.cxb,GFP_B6_DIV4_cuffquants_out/abundances.cxb MBII52_ICR_DIV4_cuffquants_out/abundances.cxb,MBII52_B6_DIV4_cuffquants_out/abundances.cxb
+
+cuffdiff -p 2 -b genome.fa -o DIV4_only_GFP_vs_MBII85 -L GFP,MBII85 merged_asm/merged.gtf GFP_ICR_DIV4_cuffquants_out/abundances.cxb,GFP_B6_DIV4_cuffquants_out/abundances.cxb  MBII85_ICR_DIV4_cuffquants_out/abundances.cxb,MBII85_B6_DIV4_cuffquants_out/abundances.cxb
+
+cuffdiff -p 2 -b genome.fa -o DIV4_only_MBII52_vs_MBII85 -L MBII52,MBII85 merged_asm/merged.gtf  MBII52_ICR_DIV4_cuffquants_out/abundances.cxb,MBII52_B6_DIV4_cuffquants_out/abundances.cxb MBII85_ICR_DIV4_cuffquants_out/abundances.cxb,MBII85_B6_DIV4_cuffquants_out/abundances.cxb
+
+
+For Gencode gtf analysis
+
+cuffdiff -p 2 -b GRCm38.p3.genome.fa -o DIV4_only_GFP_vs_MBII52 -L GFP,MBII52 merged_asm/merged.gtf GFP_ICR_DIV4_cuffquants_out/abundances.cxb,GFP_B6_DIV4_cuffquants_out/abundances.cxb MBII52_ICR_DIV4_cuffquants_out/abundances.cxb,MBII52_B6_DIV4_cuffquants_out/abundances.cxb
+
+cuffdiff -p 2 -b GRCm38.p3.genome.fa -o DIV4_only_GFP_vs_MBII85 -L GFP,MBII85 merged_asm/merged.gtf GFP_ICR_DIV4_cuffquants_out/abundances.cxb,GFP_B6_DIV4_cuffquants_out/abundances.cxb MBII85_ICR_DIV4_cuffquants_out/abundances.cxb,MBII85_B6_DIV4_cuffquants_out/abundances.cxb
+
+cuffdiff -p 11 -b GRCm38.p3.genome.fa -o DIV4_only_MBII52_vs_MBII85 -L MBII52,MBII85 merged_asm/merged.gtf  MBII52_ICR_DIV4_cuffquants_out/abundances.cxb,MBII52_B6_DIV4_cuffquants_out/abundances.cxb MBII85_ICR_DIV4_cuffquants_out/abundances.cxb,MBII85_B6_DIV4_cuffquants_out/abundances.cxb
