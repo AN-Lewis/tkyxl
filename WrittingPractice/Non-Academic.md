@@ -36,7 +36,7 @@ What are the economic possibilities for our grandchildren?”
 “I would predict that the standard of life in progressive countries one hundred years hence will be between four and eight times as high as it is to-day,” he wrote. The potent combination of technology and capital would render most material-based concerns irrelevant; people would no longer have to worry about basic problems of survival. One result would be an unprecedented abundance of leisure time, which would present a new problem for the average human: “How to use his freedom from pressing economic cares, how to occupy the leisure, which science and compound interest will have won for him, to live wisely and agreeably and well.”
 
 
-**From quora **
+**From quora**
 
 Being a writer isn't just about writing. It's a lot of hard work, and much of that work has little to do with writing.
 
@@ -65,3 +65,10 @@ So, this all probably sounds a little like I hate being a writer. Yet, as much a
 The other great thing about being a writer is that the fun parts are fantastic. It's a passion, it overtakes me...when I'm deep in a book, I'm sometimes not a very good conversationalist. This isn't a job I go home from. I don't put my notebook/computer away at the end of my workday and forget about my stories. I'm constantly thinking about my characters. I meet a girl and see the way her dyed hair makes her eyes pop, and I wonder if I can slip that into the story I'm working on. I listen to discussions around me and think about the dynamics of dialog. I'm making notes, always thinking. I suppose this obsession is both good and bad. Part of the work, part of the fun.
 
 The respect from peers is pretty awesome, too. A lot of people have this fantasy impression of authors, sitting with their coffees or teas or wines, clicking away at their laptops, their pretty little heads spinning tales...But sometimes it gets a little annoying because people don't really get how much work it is. Some do, some don't. If I take the time to explain it, they understand a little more, but being a writer is one of those things you really have to experience to fully understand.
+
+**PDFA**
+Communication is a cornerstone of science. Writing research grants and papers, and oral presentation of talks, along with debates, negotiations, and community building are essential skills. Yet, science communication skills are rarely learned formally, making their acquisition a matter of circumstance and chance. How unscientific!   
+
+A core mission of the BSI Director’s Office is supporting researchers’ communication activities. This includes professional consulting and editing of manuscripts and grants, presentation coaching, scientific networks and collaborations, advocacy to the government and funding agencies, and public/media outreach and education.
+
+This Summer Program Open Lab is a collaboration between the BSI Director’s Office and the Postdoctoral Fellow Association (PDFA). We will outline present and future perspectives on science communication in research and career development. Please come for a drink and snack and be prepared to exercise your communication skills!
