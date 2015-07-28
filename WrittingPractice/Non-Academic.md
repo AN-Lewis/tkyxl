@@ -67,6 +67,7 @@ The other great thing about being a writer is that the fun parts are fantastic. 
 The respect from peers is pretty awesome, too. A lot of people have this fantasy impression of authors, sitting with their coffees or teas or wines, clicking away at their laptops, their pretty little heads spinning tales...But sometimes it gets a little annoying because people don't really get how much work it is. Some do, some don't. If I take the time to explain it, they understand a little more, but being a writer is one of those things you really have to experience to fully understand.
 
 **PDFA**
+  
 Communication is a cornerstone of science. Writing research grants and papers, and oral presentation of talks, along with debates, negotiations, and community building are essential skills. Yet, science communication skills are rarely learned formally, making their acquisition a matter of circumstance and chance. How unscientific!   
 
 A core mission of the BSI Director’s Office is supporting researchers’ communication activities. This includes professional consulting and editing of manuscripts and grants, presentation coaching, scientific networks and collaborations, advocacy to the government and funding agencies, and public/media outreach and education.
