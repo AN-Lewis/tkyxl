@@ -22,19 +22,17 @@ my $input = undef;
 
 GetOptions
 (
-    "species=s" => \$species,
-    "coord_system=s" => \$coord_system,
-    "seq_region=s" => \$seq_region,
-    "seq_region_start=i" => \$seq_region_start,
-    "seq_region_end=i" => \$seq_region_end,
-    "alignment_type=s" => \$alignment_type,
-    "set_of_species=s" => \$set_of_species,
-    "output_format=s" => \$output_format,
-    "output=s" => \$output_file,
-    "input=s" => \$input_file,
+    "species=s" 			=> \$species,
+    "coord_system=s" 		=> \$coord_system,
+    "seq_region=s" 			=> \$seq_region,
+    "seq_region_start=i" 	=> \$seq_region_start,
+    "seq_region_end=i" 		=> \$seq_region_end,
+    "alignment_type=s" 		=> \$alignment_type,
+    "set_of_species=s"		=> \$set_of_species,
+    "output_format=s" 		=> \$output_format,
+    "output=s" 				=> \$output_file,
+    "input=s" 				=> \$input_file,
 );
-
-
 
 
 if ($output_file)
